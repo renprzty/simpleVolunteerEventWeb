@@ -27,3 +27,6 @@ Aplikasi frontend sederhana untuk melihat dan mendaftar event volunteer.
 
 **3. Asumsi UX apa yang kamu ambil?**
  Saya berasumsi bahwa user membutuhkan feedback visual instan. Oleh karena itu, saya menonaktifkan tombol "Join" saat proses sedang berjalan (loading state) untuk mencegah double-submit, dan memberikan notifikasi alert sederhana sebagai konfirmasi status.
+
+ ## Live Demo
+Link: [https://simple-volunteer-event-web.vercel.app/](https://simple-volunteer-event-web.vercel.app/)
